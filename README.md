@@ -1,4 +1,5 @@
 # firstdemoproject
 
 ## Second Heading
-This is my first demo project
+##### The Small Heading
+~This is my first demo project~
